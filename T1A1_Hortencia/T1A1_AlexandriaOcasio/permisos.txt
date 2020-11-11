@@ -1,0 +1,9 @@
+Permisos
+
+r: read, lectura
+w: write, escritura
+x: execute, ejecución
+
+u: Permisos aplicables a usuario
+g: permisos aplicables a grupo de usuarios
+o: Permisos aplicables a others, que no son el usuario ni pertenecen a un grupo

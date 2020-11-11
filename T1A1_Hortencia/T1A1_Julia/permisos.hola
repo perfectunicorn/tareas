@@ -1,0 +1,9 @@
+Permisos para carpetas
+
+r: read, lectura
+w: write, escritura
+x: execute, ejecución- Para carpetas el permiso de ejecución impide entrar a la carpeta
+
+u: Permisos aplicables a usuario
+g: permisos aplicables a grupo de usuarios
+o: Permisos aplicables a others, que no son el usuario ni pertenecen a un grupo
